@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm [Your Name]
+# 👋 Hello World, I'm Pal Pathak
 
 <!-- HERO SECTION START -->
 <div align="center">
@@ -62,9 +62,9 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FF&fire=00F2FF&currStreakLabel=00F2FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[PalDPathak404]&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FF&fire=00F2FF&currStreakLabel=00F2FF" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=E0E0E0" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[PalDPathak404]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=E0E0E0" alt="Top Languages" />
 </div>
 <!-- GITHUB STATS END -->
 
@@ -86,9 +86,9 @@
 ## 🐍 My Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YourUsername]/[YourUsername]/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YourUsername]/[YourUsername]/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[YourUsername]/[YourUsername]/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[PalDPathak404]/[PalDPathak404]/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[PalDPathak404]/[PalDPathak404]/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[PalDPathak404]/[PalDPathak404]/output/github-contribution-grid-snake.svg">
 </picture>
 <!-- SNAKE ANIMATION END -->
 
