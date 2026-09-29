@@ -41,7 +41,7 @@ I am a **Frontend Engineer** passionate about building responsive, high-performa
 
 I'm part of the **CodingGita Hackathon Committee**, the student-driven team behind **HackSprint '26** and the upcoming **PixelRush '26** — organizing hackathons end to end, from event design to evaluation.
 
-<a href="#"><img src="https://img.shields.io/badge/View%20Committee%20Organization-0b1229?style=for-the-badge&logo=github&logoColor=2dd4bf" alt="Committee Org"></a>
+<a href="https://github.com/CodingGita-Hackathon-Commitee"><img src="https://img.shields.io/badge/View%20Committee%20Organization-0b1229?style=for-the-badge&logo=github&logoColor=2dd4bf" alt="Committee Org"></a>
 
 <div align="center">
   <img src="./assets-v2/divider.svg" width="100%" alt="" />
