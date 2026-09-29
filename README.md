@@ -1,22 +1,57 @@
-# Hi there, I'm PalDPathak404 👋
+<div align="center">
+  <img src="./assets-v2/banner.svg" width="100%" alt="Hero Banner" />
+</div>
 
-I am a **Frontend Engineer** passionate about building responsive, high-performance web applications. This repository serves as my GitHub Profile landing page.
+<!-- Note: The typing-animation line and badge row were not found in the original README, so they are omitted here. -->
 
----
+<div align="center">
+  <img src="./assets-v2/ticker.svg" width="100%" alt="Tech Stack Ticker" />
+</div>
 
-### 👨‍💻 About Me
-- 🔭 I specialize in building robust frontend applications using **React, JavaScript, and TypeScript**.
-- 💼 I am actively seeking a **Frontend Engineer Intern** role, with a strong interest in **Trading UIs** and financial interfaces.
-- ⚡ My development philosophy focuses on creating clean architectures, reusable components, and seamless API integrations.
-- 🌱 I'm currently focused on advanced state management, performance optimization, and responsive design patterns.
+<div align="center">
+  <img src="./assets-v2/divider.svg" width="100%" alt="" />
+</div>
 
-### 🛠️ Tech Stack & Skills
-- **Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks & Libraries:** React, Redux, Tailwind CSS
-- **Concepts:** Responsive UI, State Management, API Integration, Authentication Flows, Performance Optimization
-- **Tools:** Git, Webpack, Vite
+## 01 About
 
-*(My skill badges are dynamically loaded below)*
+I am a **Frontend Engineer** passionate about building responsive, high-performance web applications.
+
+<div align="center">
+  <img src="./assets-v2/info-cards.svg" width="100%" alt="Frontend Focus, Seeking, and Interests" />
+</div>
+
+<div align="center">
+  <img src="./assets-v2/divider.svg" width="100%" alt="" />
+</div>
+
+## 02 Hackathon Committee
+
+<!-- Note: The original Hackathon Committee paragraph and badge were not found in the repository. Please add your text here. -->
+*(The original Hackathon Committee text and badge were missing from the repository. Please insert them here.)*
+
+<div align="center">
+  <img src="./assets-v2/divider.svg" width="100%" alt="" />
+</div>
+
+## 03 Focus Areas
+
+<div align="center">
+  <img src="./assets-v2/orbit.svg" width="100%" alt="Focus Areas Orbit" />
+</div>
+
+<div align="center">
+  <img src="./assets-v2/divider.svg" width="100%" alt="" />
+</div>
+
+## 04 Skill Proficiency
+
+<div align="center">
+  <img src="./assets-v2/skillbars.svg" width="100%" alt="Skill Proficiency Bars" />
+</div>
+
+### 04.1 Full Stack
+
+<!-- Note: The 4-column tech badge table was not found in the original README. -->
 
 <p align="center">
   <picture>
@@ -25,7 +60,12 @@ I am a **Frontend Engineer** passionate about building responsive, high-performa
   </picture>
 </p>
 
-### 📊 GitHub Statistics
+<div align="center">
+  <img src="./assets-v2/divider.svg" width="100%" alt="" />
+</div>
+
+## 05 GitHub Statistics
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=paldpathak404&theme=github-dark&mode=light" />
@@ -33,7 +73,12 @@ I am a **Frontend Engineer** passionate about building responsive, high-performa
   </picture>
 </p>
 
-### 🚀 Projects & Work
+<div align="center">
+  <img src="./assets-v2/divider.svg" width="100%" alt="" />
+</div>
+
+## 06 Projects & Work
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=paldpathak404&theme=github-dark&mode=light" />
@@ -41,7 +86,12 @@ I am a **Frontend Engineer** passionate about building responsive, high-performa
   </picture>
 </p>
 
-### 📫 Let's Connect
+<div align="center">
+  <img src="./assets-v2/divider.svg" width="100%" alt="" />
+</div>
+
+## 07 Connect
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=paldpathak404&theme=github-dark&mode=light" />
@@ -49,47 +99,4 @@ I am a **Frontend Engineer** passionate about building responsive, high-performa
   </picture>
 </p>
 
----
-
-## 📝 About This Repository
-
-> *This section provides technical details about this specific repository for developers and recruiters.*
-
-**What the project does:** 
-This is a special GitHub repository (`PalDPathak404/PalDPathak404`) that acts as my dynamic GitHub Profile README. It greets visitors to my profile and provides a consolidated view of my technical skills, GitHub activity, and contact information.
-
-**Why it exists:** 
-To provide a professional, recruiter-friendly landing page that highlights my capabilities as a Frontend Engineer.
-
-**Main Features:**
-- Dynamic statistics and visual widgets powered by GitSkins.
-- Responsive SVG rendering that adapts to GitHub's light/dark themes.
-- Clear articulation of frontend engineering skills (React, TypeScript, responsive UI).
-
-**Tech Stack:** 
-- Markdown
-- GitSkins API (SVG generation based on GitHub data)
-
-**Architecture / Project Structure:**
-This is a standard configuration repository containing:
-- `README.md`: The main entry point rendered on my profile.
-- `.github/`: Configuration for GitHub workflows (if applicable).
-- `.git/`: Version control history.
-
-**How to run it locally:**
-As this is a Markdown-based profile repository, no complex build steps are required.
-1. Clone the repository: 
-   ```bash
-   git clone https://github.com/PalDPathak404/PalDPathak404.git
-   ```
-2. Open `README.md` in your preferred Markdown editor (e.g., VS Code).
-3. Use a Markdown preview plugin to view changes locally.
-
-**Environment variables required:** 
-None.
-
-**API/backend integration:** 
-This project dynamically fetches SVG assets from the `gitskins.com` public API based on my GitHub username. No authentication is required for these public endpoints.
-
-**Deployment / Demo:** 
-The README is automatically deployed and rendered by GitHub on my profile page at: [https://github.com/PalDPathak404](https://github.com/PalDPathak404).
+<!-- Note: The capsule-render waving footer was not found in the original README. -->
